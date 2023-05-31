@@ -10,30 +10,6 @@
    <FileRef
       location = "group:LICENSE">
    </FileRef>
-   <FileRef
-      location = "group:SwiftOSC.podspec">
-   </FileRef>
-   <FileRef
-      location = "group:Playgrounds.playground">
-   </FileRef>
-   <Group
-      location = "group:Examples"
-      name = "Examples">
-      <Group
-         location = "group:iOS"
-         name = "iOS">
-         <FileRef
-            location = "group:OSCTest/OSCTest.xcodeproj">
-         </FileRef>
-      </Group>
-      <Group
-         location = "group:macOS"
-         name = "macOS">
-         <FileRef
-            location = "group:OSCMonitor/OSCMonitor.xcodeproj">
-         </FileRef>
-      </Group>
-   </Group>
    <Group
       location = "group:Framework"
       name = "Framework">
